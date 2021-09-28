@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="short_description" label="Short description" language="en" table="x_701940_innovate2_innovate">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <help/>
+            <hint/>
+            <label>Short description</label>
+            <language>en</language>
+            <name>x_701940_innovate2_innovate</name>
+            <plural>Short descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-09-27 19:02:18</sys_created_on>
+            <sys_id>d8d075ae2f3630109e312d6df699b680</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Short description</sys_name>
+            <sys_package display_value="Innovate" source="x_701940_innovate2">b136e1262f3630109e312d6df699b66f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">b136e1262f3630109e312d6df699b66f</sys_scope>
+            <sys_update_name>sys_documentation_x_701940_innovate2_innovate_short_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-09-27 19:02:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

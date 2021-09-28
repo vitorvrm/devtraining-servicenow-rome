@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Suggestion box for employees</description>
+        <device_type>browser</device_type>
+        <hint>Suggestion box for employees</hint>
+        <name/>
+        <order/>
+        <roles>x_701940_innovate2.employee</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-27 19:05:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3a8175a62f3630109e312d6df699b6c2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Innovate</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Innovate" source="x_701940_innovate2">b136e1262f3630109e312d6df699b66f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">b136e1262f3630109e312d6df699b66f</sys_scope>
+        <sys_update_name>sys_app_application_3a8175a62f3630109e312d6df699b6c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-28 13:26:33</sys_updated_on>
+        <title>Innovate</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
